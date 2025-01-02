@@ -116,7 +116,7 @@ fun App() {
 ```
 
 
-To keep aligned on the functional aspect of Jetpack Compose, the best writing approach is to inject instances directly into functions parameters. This way allow to have default implementation with Koin, but keep open to inject instances how you want.
+To keep aligned on the functional aspect of Jetpack Compose, the best writing approach is to inject instances directly into functions parameters. This way allows having the default implementation of Koin, but staying open for injecting instances how you want.
 
 ```kotlin
 @Composable
