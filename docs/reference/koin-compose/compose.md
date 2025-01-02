@@ -40,7 +40,7 @@ fun App() {
 }
 ```
 
-The `KoinApplication` function will handle start & stop of your Koin context, regarding the cycle of the Compose context. This function start and stop a new Koin application context.
+The `KoinApplication` function will handle start & stop of your Koin context, regarding the cycle of the Compose context. This function starts and stops a new Koin application context.
 
 :::info
 In an Android Application, the `KoinApplication` will handle any need to stop/restart Koin context regarding configuration changes or drop of Activities.
