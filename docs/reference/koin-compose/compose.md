@@ -7,7 +7,7 @@ This page describe how you can inject your dependencies for your [Android Jetpac
 
 ## Koin Compose Multiplatform vs Koin Android Jetpack Compose
 
-Since mid 2024, Compose applications can be done with Koin Multiplatform API. All APIs are identifcal between Koin Jetpack Compose (koin-androidx-compose) and Koin Compose Multiplatform (koin-compose).
+Since mid 2024, Compose applications can be done with Koin Multiplatform API. All APIs are identical between Koin Jetpack Compose (koin-androidx-compose) and Koin Compose Multiplatform (koin-compose).
 
 ### What Koin package for Compose?
 
